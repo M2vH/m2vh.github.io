@@ -6,7 +6,10 @@ This site is generated using Jekyll based GitHub Pages functionality.
 
 ## About me
 
+```txt
 
+
+```
 
 ---
 
@@ -15,10 +18,8 @@ This site is generated using Jekyll based GitHub Pages functionality.
 Follow the link below to reach some of my coding projects.  
 [A collection of samples](./projects/projects.md)
 
-### Spielen mit Console
-
 ---
 
-### Support or Contact
+## Support or Contact
 
 Feel free to look inside my repositories, especially the ones mentioned above.
