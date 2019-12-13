@@ -17,7 +17,7 @@ I hope I will understand it ;-)
 The title of this chapter is set using `page.title` as shown here
 
 ```markdown
-## {{ page.title }}
+## `{{ page.title }}`
 ```
 
 Some text using `code` and  
