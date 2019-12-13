@@ -5,22 +5,34 @@ category: test
 tags: test helloWorld m2vh
 ---
 
+Date: {{ post.date }}
 
-# Hello World!
+# {{ page.title }}
 
-This is a **first** post to check the functionaluty of Jekyll blog mechanism.
+This is the _**first**_ post to check the functionaluty of Jekyll blog mechanism.
 
 I hope I will understand it ;-)
 
-## {{ page.title }}
+## Hello World!
 
-The title of this chapter is set using `page.title` as shown here
+The title of this post is set using `page.title` as shown here
 
 ```markdown
 ## {{ "{{ page.title " }}}}
 ```
 
-Some text using `code` or a complete codeblock.  
+Writing about code id pretty easy.  
+Some text using `code` or a complete codeblock like the following:
+
+```csharp
+// lexer: csharp
+using System;
+namespace M2vH{
+    class Me{
+        string name = "Marco M. von Hagen";
+    }
+}
+```
 
 ### Example of lexers.html.XmlLexer and XAML
 
