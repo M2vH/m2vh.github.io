@@ -5,7 +5,7 @@ category: test
 tags: test helloWorld m2vh
 ---
 
-Date: {{ post.date }}
+Date: {{ page.date }}
 
 # {{ page.title }}
 
