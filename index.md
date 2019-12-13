@@ -6,10 +6,7 @@ This site is generated using Jekyll based GitHub Pages functionality.
 
 ## About me
 
-```txt
-
-
-```
+    Test a <a href="https://example.com">link</a>
 
 ---
 
