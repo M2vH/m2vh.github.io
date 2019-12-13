@@ -2,7 +2,7 @@
 
 This site is generated using Jekyll based GitHub Pages functionality.  
 
-**YES** - I actually poke inside `this` branch ⚠⚙⚡  
+⚠⚙⚡ **YES** - I actually poke inside `this` branch.   
 
 ---
 
