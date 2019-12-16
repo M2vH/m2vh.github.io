@@ -4,5 +4,5 @@ google_analytics: UA-61449151-2
 show_downloads: false
 theme: jekyll-theme-hacker
 
-gems:
+plugins:
   - jekyll-mentions
