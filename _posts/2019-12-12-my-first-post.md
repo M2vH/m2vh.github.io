@@ -5,13 +5,15 @@ category: test
 tags: test helloWorld m2vh
 ---
 
-Date: {{ page.date }}
-
 # {{ page.title }}
 
-This is the _**first**_ post to check the functionaluty of Jekyll blog mechanism.
+Date: {{ page.date }}
+
+This is the _**first**_ post to check the functionality of Jekyll blog mechanism.
 
 I hope I will understand it ;-)
+
+---
 
 ## Hello World!
 
