@@ -7,13 +7,11 @@ tags: jekyll github pages m2vh
 
 # {{ page.title }}
 
-Date: {{ page.date }}
+Date: {{ page.date | date_to_string }}
 
 Guess, we want to debug a GitHub website locally. Therefore I installed Jekyll for Windows.
 
 About `How to install Ruby on Windows` is topic of another post.
-
----
 
 ### Add a `Gemfile` to repository
 
@@ -45,8 +43,14 @@ bundle exec jekyll serve
 
 I can reach the GitHub page locally at `localhost:4000`.
 
----
+### Whats next
 
-Next step is switching back to `master` branch, merge the `serveLocally` and `push` to GitHub.
+Next step is switching back to `master` branch, merge the `serveLocally` and `push` to GitHub. 
+
+Check your `Activity log` on Github. It should be found like so:
+
+```
+https://github.com/<YourAccount>/<YourAccount>.github.io/deployments
+```
 
 ---

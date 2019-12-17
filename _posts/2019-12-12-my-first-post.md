@@ -7,15 +7,13 @@ tags: test helloWorld m2vh
 
 # {{ page.title }}
 
-Date: {{ page.date }}
+Date: {{ page.date | date_to_string }}
 
 This is the _**first**_ post to check the functionality of Jekyll blog mechanism.
 
 I hope I will understand it ;-)
 
----
-
-## Hello World!
+### Hello World!
 
 The title of this post is set using `page.title` as shown here
 
@@ -24,10 +22,23 @@ The title of this post is set using `page.title` as shown here
 ```
 
 Writing about code id pretty easy.  
-Some text using `code` or a complete codeblock like the following:
+Highlight some `code` or a complete codeblock like the following:
+
+```
+highlight inline code like so: `code` 
+```
+
+Use lexer inside a codeblock to get the code coloured output
+
+    ```csharp
+    // your code goes here
+    ```
+
+will look this way:
 
 ```csharp
-// lexer: csharp
+// lexer: csharp  <- add comment
+
 using System;
 namespace M2vH{
     class Me{
