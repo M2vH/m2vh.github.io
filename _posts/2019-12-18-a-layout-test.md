@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "My layout post!"
 category: test
 tags: test helloWorld m2vh
