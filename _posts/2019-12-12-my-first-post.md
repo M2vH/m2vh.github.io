@@ -5,10 +5,6 @@ category: test
 tags: test helloWorld m2vh
 ---
 
-# {{ page.title }}
-
-Date: {{ page.date | date_to_string }}
-
 This is the _**first**_ post to check the functionality of Jekyll blog mechanism.
 
 I hope I will understand it ;-)
@@ -67,5 +63,3 @@ namespace M2vH{
 </Page>
 
 ```
-
----

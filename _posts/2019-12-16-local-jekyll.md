@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: mypost
 title: "Serve GitHub Jekyll locally"
 category: jekyll
 tags: jekyll github pages m2vh
 ---
-
-# {{ page.title }}
-
-Date: {{ page.date | date_to_string }}
 
 Guess, we want to debug a GitHub website locally. Therefore I installed Jekyll for Windows.
 
@@ -52,5 +48,3 @@ Check your `Activity log` on Github. It should be found like so:
 ```
 https://github.com/<YourAccount>/<YourAccount>.github.io/deployments
 ```
-
----

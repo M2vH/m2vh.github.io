@@ -10,6 +10,6 @@
 
 <!-- <p>{{ site.posts | where:"layout","post" | content | markdownify }}</p> -->
 
-{% for post in site.posts %}
+<!-- {% for post in site.posts %}
 <p>{{ post.content | markdownify }}</p>
-{% endfor %}
+{% endfor %} -->

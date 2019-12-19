@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: mypost
 title: "Passed Azure Fundamentals Certification"
 category: azure
 tags: azure certificate pages m2vh
 ---
-
-# {{ page.title }}
-
-Date: {{ page.date | date_to_string }}
 
 <div class="image-with-text">
     <div class="img-float-left">
@@ -25,4 +21,3 @@ Follow the [Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fu
 
 Additional check some of the free Trainings on `PluralSight` like this one [here](https://puralsight.com/microsoft).
 
----
