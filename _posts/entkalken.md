@@ -1,4 +1,9 @@
-# DIY-Wasserenthärtungsanlage für Gartenbewässerung
+---
+layout: mypost
+title: "DIY-Wasserenthärtungsanlage für Gartenbewässerung"
+category: personal
+tags: garden water m2vh
+---
 
 Diese Anleitung beschreibt den Bau einer regenerierbaren Wasserenthärtungsanlage mit Ionenaustauscherharz zur Versorgung kalkempfindlicher Pflanzen mit weichem Wasser.
 
